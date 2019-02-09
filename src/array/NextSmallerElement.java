@@ -4,6 +4,9 @@ import java.util.Stack;
 
 /**
  * Created by ajaysinha on 09/02/19.
+ * 
+ * Program to find Next Smaller Element(NSE) in a given array.
+ * This prints the NSE in reverse order of the array. If needed to print in order of array we can use an additional storage.
  */
 public class NextSmallerElement {
 
